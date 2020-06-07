@@ -1,0 +1,510 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 1194,
+      "max": [
+        14.402283668518066,
+        99.787300109863281,
+        7.2011446952819824
+      ],
+      "min": [
+        -14.402283668518066,
+        85.384971618652344,
+        -7.2011446952819824
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 14328,
+      "componentType": 5126,
+      "count": 1194,
+      "max": [
+        1,
+        0.99701547622680664,
+        1
+      ],
+      "min": [
+        -1,
+        -0.99702805280685425,
+        -1
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 1194,
+      "max": [
+        0.96056634187698364,
+        1,
+        0.88312017917633057,
+        1
+      ],
+      "min": [
+        -0.99103009700775146,
+        -1,
+        -0.99999988079071045,
+        1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 1194,
+      "max": [
+        1,
+        0.99999994039535522
+      ],
+      "min": [
+        0,
+        0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 9552,
+      "componentType": 5126,
+      "count": 1194,
+      "max": [
+        1,
+        0.99999994039535522
+      ],
+      "min": [
+        0,
+        0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 19104,
+      "componentType": 5126,
+      "count": 1194,
+      "max": [
+        1,
+        0.99999994039535522
+      ],
+      "min": [
+        0,
+        0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 5082,
+      "max": [
+        1193
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 28656,
+      "componentType": 5126,
+      "count": 196,
+      "max": [
+        3.2270359992980957,
+        99.686050415039062,
+        2.8055520057678223
+      ],
+      "min": [
+        -3.2270655632019043,
+        -0.7804984450340271,
+        -2.8055520057678223
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 31008,
+      "componentType": 5126,
+      "count": 196,
+      "max": [
+        0.99952387809753418,
+        0.6887776255607605,
+        0.99964094161987305
+      ],
+      "min": [
+        -0.99952387809753418,
+        -0.72940397262573242,
+        -0.99964094161987305
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 19104,
+      "componentType": 5126,
+      "count": 196,
+      "max": [
+        1,
+        0.72930556535720825,
+        1,
+        1
+      ],
+      "min": [
+        -1,
+        -0.72931867837905884,
+        -1,
+        1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 28656,
+      "componentType": 5126,
+      "count": 196,
+      "max": [
+        0.9701303243637085,
+        0.93557989597320557
+      ],
+      "min": [
+        0.031791925430297852,
+        0.043665409088134766
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 30224,
+      "componentType": 5126,
+      "count": 196,
+      "max": [
+        0.9701303243637085,
+        0.93557989597320557
+      ],
+      "min": [
+        0.031791925430297852,
+        0.043665409088134766
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 31792,
+      "componentType": 5126,
+      "count": 196,
+      "max": [
+        0.9701303243637085,
+        0.93557989597320557
+      ],
+      "min": [
+        0.031791925430297852,
+        0.043665409088134766
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 20328,
+      "componentType": 5125,
+      "count": 756,
+      "max": [
+        195
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "Silver Phoenix (https://sketchfab.com/UniBlend)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/survival-melee-weapon-1-3eb9db055c7246289feaa7f65bf5f4c4",
+      "title": "Survival Melee Weapon 1"
+    },
+    "generator": "Sketchfab-8.49.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 23352,
+      "byteOffset": 0,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 33360,
+      "byteOffset": 23352,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 33360,
+      "byteOffset": 56712,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 22240,
+      "byteOffset": 90072,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 112312,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/Head_baseColor.jpeg"
+    },
+    {
+      "uri": "textures/Head_metallicRoughness.png"
+    },
+    {
+      "uri": "textures/Head_normal.png"
+    },
+    {
+      "uri": "textures/Handel_baseColor.jpeg"
+    },
+    {
+      "uri": "textures/Handel_metallicRoughness.png"
+    },
+    {
+      "uri": "textures/Handel_normal.png"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "name": "Head",
+      "normalTexture": {
+        "index": 2,
+        "scale": 1,
+        "texCoord": 0
+      },
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "baseColorTexture": {
+          "index": 0,
+          "texCoord": 0
+        },
+        "metallicFactor": 1,
+        "metallicRoughnessTexture": {
+          "index": 1,
+          "texCoord": 0
+        },
+        "roughnessFactor": 1
+      }
+    },
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "name": "Handel",
+      "normalTexture": {
+        "index": 5,
+        "scale": 1,
+        "texCoord": 0
+      },
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "baseColorTexture": {
+          "index": 3,
+          "texCoord": 0
+        },
+        "metallicFactor": 1,
+        "metallicRoughnessTexture": {
+          "index": 4,
+          "texCoord": 0
+        },
+        "roughnessFactor": 1
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Sledge Hammer_Head_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3,
+            "TEXCOORD_1": 4,
+            "TEXCOORD_2": 5
+          },
+          "indices": 6,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Handel_Handel_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 8,
+            "POSITION": 7,
+            "TANGENT": 9,
+            "TEXCOORD_0": 10,
+            "TEXCOORD_1": 11,
+            "TEXCOORD_2": 12
+          },
+          "indices": 13,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "name": "RootNode (gltf orientation matrix)",
+      "rotation": [
+        -0.70710678118654746,
+        -0,
+        -0,
+        0.70710678118654757
+      ]
+    },
+    {
+      "children": [
+        2
+      ],
+      "name": "RootNode (model correction matrix)"
+    },
+    {
+      "children": [
+        3
+      ],
+      "matrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        -1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "name": "f4564523880549d3a96e5035067bf05f.fbx"
+    },
+    {
+      "children": [
+        4
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        5,
+        6
+      ],
+      "name": "Sledge Hammer"
+    },
+    {
+      "mesh": 0,
+      "name": "Sledge Hammer_Head_0"
+    },
+    {
+      "children": [
+        7
+      ],
+      "name": "Handel"
+    },
+    {
+      "mesh": 1,
+      "name": "Handel_Handel_0"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "OSG_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    },
+    {
+      "sampler": 0,
+      "source": 3
+    },
+    {
+      "sampler": 0,
+      "source": 4
+    },
+    {
+      "sampler": 0,
+      "source": 5
+    }
+  ]
+}
+
