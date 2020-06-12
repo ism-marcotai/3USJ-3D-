@@ -1,0 +1,153 @@
+{
+    "asset": {
+        "version": "2.0",
+        "generator": "Open Asset Import Library (assimp v5.0.5eb040c7)"
+    },
+    "accessors": [
+        {
+            "bufferView": 0,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 1518,
+            "type": "VEC3",
+            "max": [
+                5.0,
+                50.966556549072269,
+                50.966556549072269
+            ],
+            "min": [
+                -5.0,
+                -50.966556549072269,
+                -50.966556549072269
+            ]
+        },
+        {
+            "bufferView": 1,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 1518,
+            "type": "VEC3",
+            "max": [
+                1.0,
+                0.9998465776443481,
+                0.9998465776443481
+            ],
+            "min": [
+                -1.0,
+                -0.9998465776443481,
+                -0.9998465776443481
+            ]
+        },
+        {
+            "bufferView": 2,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 1518,
+            "type": "VEC2",
+            "max": [
+                0.99853515625,
+                1.0
+            ],
+            "min": [
+                0.0,
+                0.027611970901489259
+            ]
+        },
+        {
+            "bufferView": 3,
+            "byteOffset": 0,
+            "componentType": 5125,
+            "count": 4896,
+            "type": "SCALAR",
+            "max": [
+                1517
+            ],
+            "min": [
+                0
+            ]
+        }
+    ],
+    "buffers": [
+        {
+            "byteLength": 68160,
+            "uri": "result.bin"
+        }
+    ],
+    "bufferViews": [
+        {
+            "buffer": 0,
+            "byteOffset": 0,
+            "byteLength": 18216,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 18216,
+            "byteLength": 18216,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 36432,
+            "byteLength": 12144,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 48576,
+            "byteLength": 19584,
+            "target": 34963
+        }
+    ],
+    "materials": [
+        {
+            "name": "DefaultMaterial",
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    0.6000000238418579,
+                    0.6000000238418579,
+                    0.6000000238418579,
+                    1.0
+                ],
+                "metallicFactor": 0.0
+            }
+        }
+    ],
+    "meshes": [
+        {
+            "name": "object_1",
+            "primitives": [
+                {
+                    "mode": 4,
+                    "material": 0,
+                    "indices": 3,
+                    "attributes": {
+                        "POSITION": 0,
+                        "NORMAL": 1,
+                        "TEXCOORD_0": 2
+                    }
+                }
+            ]
+        }
+    ],
+    "nodes": [
+        {
+            "name": "input.obj",
+            "children": [
+                1
+            ]
+        },
+        {
+            "name": "object_1",
+            "mesh": 0
+        }
+    ],
+    "scenes": [
+        {
+            "nodes": [
+                0
+            ]
+        }
+    ],
+    "scene": 0
+}
