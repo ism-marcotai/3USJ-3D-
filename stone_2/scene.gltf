@@ -1,0 +1,444 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 38042,
+      "max": [
+        1.2449347972869873,
+        2.6650381088256836,
+        0.93126082420349121
+      ],
+      "min": [
+        -0.90429395437240601,
+        2.3481340408325195,
+        -1.0187251567840576
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 456504,
+      "componentType": 5126,
+      "count": 38042,
+      "max": [
+        0.95630097389221191,
+        0.96420061588287354,
+        0.87010174989700317
+      ],
+      "min": [
+        -0.97040259838104248,
+        -0.99999523162841797,
+        -0.95720052719116211
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 38042,
+      "max": [
+        0.95688199996948242,
+        1
+      ],
+      "min": [
+        0.010484999977052212,
+        0.0016599999507889152
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 217884,
+      "max": [
+        38041
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 913008,
+      "componentType": 5126,
+      "count": 34733,
+      "max": [
+        1.2088680267333984,
+        2.7452061176300049,
+        0.77804672718048096
+      ],
+      "min": [
+        -0.94421911239624023,
+        2.3465859889984131,
+        -1.0221493244171143
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1329804,
+      "componentType": 5126,
+      "count": 34733,
+      "max": [
+        0.89446234703063965,
+        0.96420061588287354,
+        0.86900341510772705
+      ],
+      "min": [
+        -0.80057668685913086,
+        -0.99999988079071045,
+        -0.99778419733047485
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 304336,
+      "componentType": 5126,
+      "count": 34733,
+      "max": [
+        1,
+        0.95327901840209961
+      ],
+      "min": [
+        0.040890417993068695,
+        0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 871536,
+      "componentType": 5125,
+      "count": 198249,
+      "max": [
+        34732
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1746600,
+      "componentType": 5126,
+      "count": 29569,
+      "max": [
+        1.2470797300338745,
+        2.7546284198760986,
+        0.83261942863464355
+      ],
+      "min": [
+        -0.66851794719696045,
+        2.3440799713134766,
+        -0.91954296827316284
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 2101428,
+      "componentType": 5126,
+      "count": 29569,
+      "max": [
+        0.95371276140213013,
+        -0.25237128138542175,
+        0.79241472482681274
+      ],
+      "min": [
+        -0.72664767503738403,
+        -0.99999958276748657,
+        -0.82550060749053955
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 582200,
+      "componentType": 5126,
+      "count": 29569,
+      "max": [
+        1,
+        0.95635801553726196
+      ],
+      "min": [
+        0,
+        0.0013620000099763274
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 1664532,
+      "componentType": 5125,
+      "count": 168735,
+      "max": [
+        29568
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "England's Rock Art Archive (https://sketchfab.com/EnglandsRockArt)",
+      "license": "CC-BY-NC-ND-4.0 (http://creativecommons.org/licenses/by-nc-nd/4.0/)",
+      "source": "https://sketchfab.com/3d-models/ewe-hill-hethpool-1-aug-2006-89587ac0abbb4891a0bfc934d5e2aee2",
+      "title": "Ewe Hill, Hethpool 1 (Aug 2006)"
+    },
+    "generator": "Sketchfab-8.77.2",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 2339472,
+      "byteOffset": 0,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 818752,
+      "byteOffset": 2339472,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 2456256,
+      "byteOffset": 3158224,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 5614480,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/EweHillHethpool1_baseColor.jpeg"
+    },
+    {
+      "uri": "textures/EweHillHethpool11_baseColor.jpeg"
+    },
+    {
+      "uri": "textures/EweHillHethpool12_baseColor.jpeg"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "name": "EweHillHethpool1",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "baseColorTexture": {
+          "index": 0,
+          "texCoord": 0
+        },
+        "metallicFactor": 0,
+        "roughnessFactor": 0.59999999999999998
+      }
+    },
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "name": "EweHillHethpool11",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "baseColorTexture": {
+          "index": 1,
+          "texCoord": 0
+        },
+        "metallicFactor": 0,
+        "roughnessFactor": 0.59999999999999998
+      }
+    },
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "name": "EweHillHethpool12",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "baseColorTexture": {
+          "index": 2,
+          "texCoord": 0
+        },
+        "metallicFactor": 0,
+        "roughnessFactor": 0.59999999999999998
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 5,
+            "POSITION": 4,
+            "TEXCOORD_0": 6
+          },
+          "indices": 7,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 9,
+            "POSITION": 8,
+            "TEXCOORD_0": 10
+          },
+          "indices": 11,
+          "material": 2,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "name": "RootNode (gltf orientation matrix)",
+      "rotation": [
+        -0.70710678118654746,
+        -0,
+        -0,
+        0.70710678118654757
+      ]
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        0.99065870046615601,
+        -0.13139648735523224,
+        0.036473516374826431,
+        0,
+        0.13636478781700134,
+        0.95456516742706299,
+        -0.26497167348861694,
+        0,
+        0,
+        0.26747021079063416,
+        0.9635661244392395,
+        0,
+        -0.34622788429260254,
+        0.1478789895772934,
+        0.66832876205444336,
+        1
+      ],
+      "name": "RootNode (model correction matrix)"
+    },
+    {
+      "children": [
+        3,
+        4,
+        5
+      ],
+      "name": "EweHillHethpool1.obj.cleaner.materialmerger.gles"
+    },
+    {
+      "mesh": 0,
+      "name": ""
+    },
+    {
+      "mesh": 1,
+      "name": ""
+    },
+    {
+      "mesh": 2,
+      "name": ""
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "OSG_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    }
+  ]
+}
+
